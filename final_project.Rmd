@@ -27,15 +27,15 @@ Note that chapter 2 will be used to grade this assignment.
 
 1. Create a dashboard using your front-end tool of choice.
 2. Dashboard should target a specific job function or business initiative.
-3. Provide a description of the business objectives that require the dashboard.
+3. Provide a description of the business objectives the dashboard is supports.
 4. Provide a training document for new users of the dashboard.
-5. If not using public or anonymized data, provide written permission for the data to be used in this project by the responsible party.
+5. If not using public or anonymized data, provide written permission for the data to be used in this project by a responsible party.
 
 A few notes about this project.
 
 * You do not have to use Domo. If you do, please use the classroom Domo instance as it will be cleaned up after the class is over.
-	* If you use a different Domo instance, note that you may be liable for any data breach.
-* If you can't tell, I'd like you to be very careful about the sensitive nature of the data used for this project.
+	* If you use a different Domo instance, note that you may be liable for the data in that instance.
+* If you can't tell, I'd like you to be very careful about how sensitive the data you choose might be.
 
 ### Option 3 -- Unsupervised Learning
 
