@@ -1,5 +1,4 @@
-Final Project – Maturity Assessment
------------------------------------
+## Final Project – Maturity Assessment
 
 The purpose of this project is to take the lecture materials from the
 course and apply them in practice. To do this, I would like you to
@@ -25,16 +24,18 @@ level to another.
 -   Chapter 2 does a good job of outlining possible criteria for BI
     maturity. I suggest you use that as your basic outline, but this is
     not a requirement.
--   Criteria should be simple and clear, do not copy from the text.
+-   Criteria should be simple and clear.
 -   Criteria should not relate to company performance or culture.
 
 ### Notes about the paper
 
 -   Your paper should include the following three sections
     -   (5 points) Brief/high-level summary of the organization you are
-        analyzing.
+        analyzing. Including industry and business description along
+        with any details about the department you are focusing on.
     -   (15 points) Summary of BI Maturity criteria - bullet list
-        perfectly acceptable.
+        perfectly acceptable, preferably in a visual format (e.g. a
+        summary table).
     -   (15 points) Description of your organization’s current BI
         maturity level - make sure to point out the specific elements
         that put the organization in that level.
@@ -48,8 +49,7 @@ level to another.
     It is possible to create a Power Point presentation but I am likely
     to be more picky for projects submitted in that format.
 
-Requirements
-------------
+## Requirements
 
 1.  Create a set of criteria to assess the BI maturity of an
     organization (this could be a company or department).
