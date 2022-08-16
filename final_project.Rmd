@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Final Project -- Maturity Assessment
 
-The purpose of this project is to take the lecture materials from the course and apply them in practice. To do this, I would like you to create/summarize a set of criteria that helps to assess the BI maturity of some organization, apply your criteria to an organization you are involved with, and then describe how the organization can move from one level to another.
+The purpose of this project is to take the lecture materials from the course and apply them in practice. To do this, I would like you to use the "four scenarios" from Chapter 2 to assess the BI maturity of some organization, apply your criteria to an organization you are involved with, and then describe how the organization can move from one level to another.
 
 ### A few notes about the organization you choose.
 
@@ -20,11 +20,13 @@ The purpose of this project is to take the lecture materials from the course and
 * You should not need to share any confidential details from your employer to successfully complete this assignment.
 * If you are not currently employed or otherwise need to find another organization to analyze, please let me know before the end of the third week of this course.
 
-### Notes about criteria
+### Suggested format
 
-* Chapter 2 does a good job of outlining possible criteria for BI maturity. I suggest you use that as your basic outline, but this is not a requirement.
-* Criteria should be simple and clear.
-* Criteria should not relate to company performance or culture.
+* The Four Scenarios from Chapter 2 will be used as a BI Maturity model.
+* Copy the grid from 02.03 Four Scenarios slide 25 into your presentation.
+* Highlight one item from each column representing the current state of the chosen organization.
+* Write a few sentances on why each critera was selected.
+* Describe how the organization can move from the current level for each criteria to the next level.
 
 ### Notes about the paper
 
