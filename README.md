@@ -7,6 +7,19 @@ organization, apply your criteria to an organization you are involved
 with, and then describe how the organization can move from one level to
 another.
 
+Imagine you are giving this report to your supervisor and it will serve
+as a blueprint for the work you will do over the next six months to a
+year. The primary objective is to increase the BI maturity of your
+organization and to improve the way you use data to make decisions.
+
+Because you are delivering this to your supervisor, you should avoid
+using negative language or value judgements. If done correctly, it
+should be clear that the next step in the BI maturity model is much
+better than the current state of company operations. There is no need to
+state that operations could be improved or that current operations are
+not ideal. Negative language and value judgements generally make people
+defensive, not good if you’re trying to persuade.
+
 ### A few notes about the organization you choose.
 
 -   The ideal situation is that you analyze your current employer.
@@ -19,7 +32,7 @@ another.
     organization to analyze, please let me know before the end of the
     third week of this course.
 
-### Suggested format
+### Required format
 
 -   The Four Scenarios from Chapter 2 will be used as a BI Maturity
     model.
@@ -27,26 +40,14 @@ another.
     presentation.
 -   Highlight one item from each column representing the current state
     of the chosen organization.
--   Write a few sentances on why each critera was selected.
--   Describe how the organization can move from the current level for
-    each criteria to the next level.
-
-### Requirements
-
--   Using the grid on slide 25 of the Four Scenarios lecture, assess the
-    BI maturity of an organization (this could be a company or
-    department).
--   Your paper should include the following three sections
-    -   (5 points) Brief/high-level summary of the organization you are
-        analyzing. Including industry and business description along
-        with any details about the department you are focusing on.
-    -   (5 points) Copy of the table from slide 25 of the 02.03 Four
-        Scenarios slides with highlights.
-    -   (20 points) Description of your organization’s current BI
-        maturity level - make sure to point out the specific elements
-        that put the organization in that level.
-    -   (20 points) Explanation of what needs to happen for the
-        organization to move from the current level to the next level.
+-   Create a section describing the current state of your organization.
+    This section should have four sub-sections, one for each of the
+    criteria (rows) in the model.
+-   Create a section describing how to move from the current level
+    (columns) to the next level in the model. You should have four
+    sub-sections, one for each criteria (row) in the model.
+-   Be as detailed as possible in your writing.
+-   Refer to the rubric for additional requirements.
 
 ### Notes
 
